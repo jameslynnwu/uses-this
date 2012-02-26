@@ -1,8 +1,6 @@
 #James Wu
 
-## About
-
-I'm a server side software engineer who likes working with others, getting his hands dirty, and getting it done.
+Software engineer who likes working with others, getting his hands dirty, and getting it done.
 
 ## Hardware
 
@@ -11,6 +9,7 @@ However, macs don't work well with this monitor, so the colors are off and thing
 Also, I use a mechanical Das Keyboard and a Logitech g500 mouse. 
 
 I use an iPad to beat people at Scramble with Friends.
+
 My phone is a DroidX that has gotten slower and slower. I'll get an iphone next time.
 
 ## Software
@@ -19,7 +18,7 @@ Vi and Sublime Text for editing normal text or a copy paste buffer. Definitely w
 for when I'm working in terminal. 
 PhpStorm and PyCharm for Php and Python development. I really like the products that JetBrains puts out.
 I know it makes me look lame for not using vim for development, but using an IDE for development helps catch a lot of stupid mistakes. 
-I've also used and played around with Xcode and Eclipse. Working with Eclipse is the bane of my existence. There are so many crashes and the shortcuts are different from
+I've also used and played around with Xcode and Eclipse. Working with Eclipse is the bane of my existence. It frequently crashes and the shortcuts are different from
 my other IDES.
 
 For bug tracking, we use Asana and Jira. I am the biggest fan of Asana, everything is so snappy and easy to learn. It made me realize how outdated Jira was.
@@ -27,6 +26,9 @@ For bug tracking, we use Asana and Jira. I am the biggest fan of Asana, everythi
 Also, I like SequelPro and Charles.
 
 I used Firefox until I gave Chrome a chance and found it was so much faster. I'm not sure what the case is now.
+
+I like Mint.com for financial tracking and Venmo for mobile payments. Its awesome going to a restaurant with a group and not worrying about splitting the bill. Someone 
+takes the bill and everyone else venmo's him/her.
 
 ## Dream Setup
 I'd like a top of the line 15" Macbook Pro with a matte screen, as much ram as possible, and the largest SSD possible. Also, I'd like for it to be hooked up to two 
