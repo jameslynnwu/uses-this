@@ -5,8 +5,10 @@ Software engineer who likes working with others, getting his hands dirty, and ge
 ## Hardware
 
 At work, I use a 17" MacbookPro with 8GB ram and an SSD. It sits on an mStand and is hooked up to an really nice 27" Dell matte monitor. 
-However, macs don't work well with this monitor, so the colors are off and things look a little grainy.
-Also, I use a mechanical Das Keyboard and a Logitech g500 mouse. 
+However, macs don't work well with this monitor, or maybe all PC monitors, so the colors are off and things look a little grainy.
+Also, I use a mechanical Das Keyboard and a Logitech g500 mouse. I went a while without wearing my AudioTechnica m50s headphones, 
+but its definitely good at signalling that you don't want to be disturbed. I just wish the cord wasn't so long. It always gets caught on 
+my chair and gets pulled to the ground. 
 
 I use an iPad to beat people at Scramble with Friends.
 
